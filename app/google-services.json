@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "657987436252",
+    "firebase_url": "https://laboratorio09-650bb.firebaseio.com",
+    "project_id": "laboratorio09-650bb",
+    "storage_bucket": "laboratorio09-650bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657987436252:android:73239a61f49b69a5",
+        "android_client_info": {
+          "package_name": "mgl.laboratorio09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657987436252-g7cer8fk9dqqu2fs0jl2sh7vu7g27tn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
